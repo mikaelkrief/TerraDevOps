@@ -15,4 +15,4 @@ Pour débuter avec Terraform :
 
 Dans cet article, nous allons voir comment utiliser conjointement Terraform et Azure DevOps dans l'optique de déployer une infrastructure Azure, de manière automatique et continue.
 
-[Let's GO !](https://)
+[Let's GO !](https://blog.cellenza.com/devops/comment-utiliser-terraform-dans-azure-devops/)
